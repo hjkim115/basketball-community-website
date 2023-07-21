@@ -1,0 +1,30 @@
+.container{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: flex;
+    background-color: black;
+    padding: 10px;
+}
+
+.logo{
+    width: 20%;
+    color: white;
+    text-align: center;
+}
+
+.container nav{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container nav a{
+    color: white;
+}
+
+.container nav p{
+    color: white;
+}
+
+

@@ -1,0 +1,23 @@
+.scrollMenu{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 38px;
+    background-color: white;
+    direction: row;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    text-align: center;
+}
+
+.scrollMenu div{
+    display: inline-block;
+    padding: 14px;
+}
+
+.filter{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 10px;
+}

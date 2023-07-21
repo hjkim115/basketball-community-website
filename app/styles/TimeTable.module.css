@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    margin: 10px;
+}
+
+.labels{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.timeTable{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 20px;
+}
+
+.time{
+    border-style: solid;
+    border-width: 1px;
+    height: 100%;
+}
+
+.colorDescription{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+

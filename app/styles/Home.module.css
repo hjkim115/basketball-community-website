@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container h1{
+    margin: 10px;
+}
+
+.adminButton{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
